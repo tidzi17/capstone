@@ -1,0 +1,30 @@
+[
+    {
+        "key": "1",
+        "name": "Ryan Renalds",
+        "rated" : 2,
+        "said": "It's not just dining, but an anazing overall experience.",
+        "picture": "./assets/avatarA.jpg"
+    },
+    {
+        "key": "2",
+        "name": "Blake Lively",
+        "rated" : 3,
+        "said": "Fabulous fantastic and everything I had imagined.",
+        "picture": "./assets/avatarB.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Rory Gilmore",
+        "rated" : 3,
+        "said": "Excellent and fast service, fresh and delicious food.",
+        "picture": "assets/avatarC.jpg"
+    },
+    {
+        "key": "4",
+        "name": "Barney Stinson",
+        "rated" : 4,
+        "said": "Legendary!",
+        "picture": "assets/avatarD.jpg"
+    }
+]
